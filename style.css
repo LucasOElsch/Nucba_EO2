@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(241, 238, 238);
+}
+
+
+
+header {
+    background-color: white;
+    font-size: 15px;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-shadow: 17px 10px 39px -17px rgba(0,0,0,0.87);
+}
+
+li {
+    padding: 3px 0;
+    color: black;
+    list-style: none;
+    font-size: 1.5em;
+   
+}
+
+img {
+    width: 8vw;
+    height: 5vw;
+}
